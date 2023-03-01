@@ -42,7 +42,7 @@ Now that the dataset has been transformed into a state where all variables can b
      src="images/model_1_base.jpg" />
 
 <p style="text-align: left;">
-With a Adjusted R-squared score of 37% and a MAE score of 396,335 our baseline model is able to explain about 37% of the variance in Kings County home sales prices and is off by about \$396,336 per house sale in a given perdiction. 
+With a Adjusted R-squared score of 37% and a MAE score of 396,335 our baseline model is able to explain about 37% of the variance in Kings County home sales prices and is off by about $396,336 per house sale in a given perdiction. 
 </p>
 
 ### Model 2: Price vs Living Space Square Footage, Number Of Bedrooms, Waterfront Status, House Grade, and View Rating
@@ -54,7 +54,7 @@ With a Adjusted R-squared score of 37% and a MAE score of 396,335 our baseline m
      src="images/model_2.jpg" />
 
 <p style="text-align: left;">
-With an Adjusted R-squared score of 50% and a MAE score of 352,431 our first regression model is able to explain about 50% of the variance in Kings County home sales prices and is off by about \$352,431 per house sale in a given perdiction. This iteration of our model is explaining the variance 13% better than our baseline and is predicting price by \$43,905 better per home sale.  We'll try another iteration to improve model fit.
+With an Adjusted R-squared score of 50% and a MAE score of 352,431 our first regression model is able to explain about 50% of the variance in Kings County home sales prices and is off by about $352,431 per house sale in a given perdiction. This iteration of our model is explaining the variance 13% better than our baseline and is predicting price by $43,905 better per home sale.  We'll try another iteration to improve model fit.
 </p>
 
 ### Model 3: Price vs Living Space Square Footage, Number Of Bedrooms, Waterfront Status, House Grade, View Rating, and Year Built
@@ -66,7 +66,7 @@ With an Adjusted R-squared score of 50% and a MAE score of 352,431 our first reg
      src="images/model_3.jpg" />
 
 <p style="text-align: left;">
-With an Adjusted R-squared score of 51% and a MAE score of 338,354 our first regression model is able to explain about 51% of the variance in Kings County home sales prices and is off by about \$338,354 per house sale in a given perdiction. This iteration of our model is explaining the variance 1% better than our first model and is predicting price by \$14,077 better per home sale.
+With an Adjusted R-squared score of 51% and a MAE score of 338,354 our first regression model is able to explain about 51% of the variance in Kings County home sales prices and is off by about $338,354 per house sale in a given perdiction. This iteration of our model is explaining the variance 1% better than our first model and is predicting price by $14,077 better per home sale.
 </p> 
 
 ### Model 4(Final): Price vs Living Space Square Footage, Number Of Bedrooms, Waterfront Status, House Grade, View Rating, and Year Built
@@ -81,7 +81,7 @@ With an Adjusted R-squared score of 51% and a MAE score of 338,354 our first reg
 ## Final Results & Recommendations
 
 <p style="text-align: left;">
-Regarding our final model, after removing all of the statistically insignificant coeficients the model drops in fitness. The Adjusted R-squared score is now 47% and the MAE score is 370,981.  We are able to explain about 47% of the variance in Kings County home sales prices and our predictions will be off by about \$370,981 per house sale for a given perdiction. This iteration of our model is explaining the variance 4% worse than our second model and is predicting price by \$32,627 worse per home sale.</p>
+Regarding our final model, after removing all of the statistically insignificant coeficients the model drops in fitness. The Adjusted R-squared score is now 47% and the MAE score is 370,981.  We are able to explain about 47% of the variance in Kings County home sales prices and our predictions will be off by about $370,981 per house sale for a given perdiction. This iteration of our model is explaining the variance 4% worse than our second model and is predicting price by $32,627 worse per home sale.</p>
 
 
 <p style="text-align: left;">
