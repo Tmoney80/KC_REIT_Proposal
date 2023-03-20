@@ -49,6 +49,14 @@ Now that the dataset has been transformed into a state where all variables can b
             margin-left: auto;
             margin-right: auto;
             width: 50%;"
+     src="images/base_pp.png" />
+
+
+
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
      src="images/model_1_base.jpg" />
 
 <p style="text-align: left;">
@@ -80,6 +88,14 @@ With an Adjusted R-squared score of 51% and a MAE score of 338,354 our first reg
 </p> 
 
 ### Model 4(Final): Price vs Living Space Square Footage, Number Of Bedrooms, Waterfront Status, House Grade, View Rating, and Year Built
+
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/m4_pp.png" />
+
+
 
 <img style="display: block;
             margin-left: auto;
