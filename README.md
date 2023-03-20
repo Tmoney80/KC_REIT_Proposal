@@ -27,6 +27,16 @@ Investing time, resources, and capitol into rehabing real estate is a heavy unde
 The Kings County housing sales dataset contains several features ranging from home price down thru to the year the home was renovated.  We can leverage these features in our regression model to try and predict home price.  We wil begin by analyzing and preparing our data for our model. Next we'll create a baseline model and improve on that model by adding variables to improve performace in subsequent models.  Lastly, we will present our results and recommendations for our client. 
 </p>
 
+<p style="text-align: left;"> 
+Taking a look at the data features we see that there are certain variables that we may not want to combine together in our model.
+</p>
+
+<img style="display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;"
+     src="images/heatmap.png" />
+
 ## Regression Modeling
 
 <p style="text-align: left;">
