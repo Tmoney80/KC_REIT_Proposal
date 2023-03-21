@@ -134,3 +134,20 @@ This model needs to be improved to more accurately predict housing prices.  Some
     
  - Apply different analysis techniques, we may need to break the dataset down into segments and analyze those segments individually as real estate can be a segmented market.
 </p>
+
+## Contact Information
+
+<p style="text-align: left;">
+For additional information contact Tahron Herring at [tahron.herring@gmail.com](mailto:tahron.herring@gmail.com)
+</p>
+
+## Repository Structure
+
+```
+├── data
+├── images
+├──.gitignore
+├── Investment Insights.ipynb
+├── README.md
+└── presentation.pdf
+```
