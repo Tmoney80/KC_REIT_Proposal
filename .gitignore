@@ -1,6 +1,7 @@
 /ScratchPaper.ipynb
+**/*.ipynb_checkpoints/
 .ipynb_checkpoints/
 /Presentation.pptx
 
 echo ".pptx" >> .gitignore
-echo ".ipynb_checkpoints/" >> .gitignore
+echo ".ipynb_checkpoints/" >> ~/.gitignore
