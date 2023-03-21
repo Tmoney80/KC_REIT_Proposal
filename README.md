@@ -137,9 +137,7 @@ This model needs to be improved to more accurately predict housing prices.  Some
 
 ## Contact Information
 
-<p style="text-align: left;">
 For additional information contact Tahron Herring at [tahron.herring@gmail.com](mailto:tahron.herring@gmail.com)
-</p>
 
 ## Repository Structure
 
