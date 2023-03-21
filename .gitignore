@@ -3,3 +3,4 @@
 /Presentation.pptx
 
 echo ".pptx" >> .gitignore
+echo ".ipynb_checkpoints" >> .gitignore
