@@ -5,3 +5,4 @@
 
 echo ".pptx" >> .gitignore
 echo ".ipynb_checkpoints/" >> ~/.gitignore
+echo "~$Presentation.pptx" >> .gitignore
